@@ -1,0 +1,1 @@
+Just download two files and run the sms.py  and before running download the dataset given here . and after saving the trained logistic regression model  start with smsf.py  and for runnining smsf.py  write streamlit run smsf.py 
